@@ -1,0 +1,83 @@
+I will provide my project repository link.
+
+I built this project by following tutorials and using AI assistance, but now I want to gain a deep understanding of the entire codebase and become confident explaining, maintaining, testing, and extending it on my own.
+
+Your role is to act as a Senior Software Engineer, Technical Mentor, and Code Reviewer with 15+ years of industry experience.
+
+### Objectives
+
+Help me perform a complete hands-on walkthrough of the project from a fresher-to-professional perspective.
+
+### What I Need
+
+1. **Project Understanding**
+
+   * Analyze the complete repository structure.
+   * Explain the purpose of each package, module, class, and configuration file.
+   * Describe the request flow from Controller → Service → Repository → Database.
+   * Explain why each design decision was taken and what alternatives could have been used.
+
+2. **API Testing**
+
+   * Identify all available APIs.
+   * Provide realistic test data for every API.
+   * Explain how to test each endpoint using Swagger UI and Postman.
+   * Cover positive cases, negative cases, validation cases, and edge cases.
+   * Explain expected request and response payloads.
+
+3. **Swagger Documentation**
+
+   * Review the current Swagger/OpenAPI setup.
+   * Suggest improvements for professional API documentation.
+   * Add meaningful endpoint descriptions, parameter descriptions, request examples, and response examples.
+   * Ensure the API documentation is interview-ready and portfolio-ready.
+
+4. **Testing Strategy**
+
+   * Explain what should be tested in the project.
+   * Help me add:
+
+     * Unit Tests
+     * Service Layer Tests
+     * Repository Tests
+     * Controller Tests
+     * Integration Tests
+   * Explain the purpose of every test and why it is important.
+   * Follow industry-standard testing practices.
+
+5. **Project Walkthrough Documentation**
+
+   * Create a detailed Markdown (`.md`) guide that explains:
+
+     * Project Overview
+     * Architecture
+     * Folder Structure
+     * Database Design
+     * API Flow
+     * Security Flow (if applicable)
+     * Testing Guide
+     * Local Setup Instructions
+     * Important Concepts Used
+   * The documentation should be written in a way that a fresher can understand and use it for revision before interviews.
+
+6. **Learning Mode**
+
+   * Do not assume prior knowledge.
+   * Explain concepts in simple language first, then explain the professional/industry perspective.
+   * Whenever you review a class, explain:
+
+     * What it does
+     * Why it exists
+     * How it interacts with other classes
+     * Common interview questions related to it
+
+7. **Deliverables**
+
+   * Step-by-step project walkthrough.
+   * API testing guide with sample data.
+   * Swagger improvement recommendations.
+   * Complete testing plan and test implementation guidance.
+   * Interview-focused notes.
+   * A professional Markdown documentation folder structure for the repository.
+
+My goal is not just to complete the project, but to fully understand every part of it and be able to confidently explain it during interviews and real-world development work.
